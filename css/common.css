@@ -111,7 +111,7 @@ header{
 header > .inner{
   height: 120px
 }
-header > .logo{
+header .logo{
   height: 75px;
   position: absolute;
   top: 0;
